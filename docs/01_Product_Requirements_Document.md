@@ -8,7 +8,7 @@
 
 **Status:** Approved
 
-**Authors:** Ayush Michael & ChatGPT (Technical Architect)
+**Authors:** Ayush Michael 
 
 **Last Updated:** June 2026
 
